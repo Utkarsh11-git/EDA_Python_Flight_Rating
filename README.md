@@ -3,7 +3,7 @@
 The project aims to analyze customer satisfaction in the airline industry by leveraging a dataset containing various attributes related to passengers' experiences. This analysis will provide insights into factors that influence passenger satisfaction, identify areas for improvement, and help airlines make data-driven decisions to enhance customer service.
 
 ### Dataset Description
-* **id** : Unique identifier for each passenger.
+* **ID** : Unique identifier for each passenger.
 * **Gender** : Passenger's gender.
 * **Customer Type** : Indicates if the passenger is a loyal or disloyal customer.
 * **Age** : Passenger's age.
