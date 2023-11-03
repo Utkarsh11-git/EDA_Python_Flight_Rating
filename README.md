@@ -28,9 +28,9 @@ The project aims to analyze customer satisfaction in the airline industry by lev
 
 ### Insights:
 * The data set contains 103,904 rows and 24 columns representing passenger survey responses. Key variables include demographics, flight details, service ratings, and satisfaction.
-* Majority of passengers are middle-aged adults or young adults. Business-class travelers tend to be more satisfied than economy class.
 * Loyal customers skew slightly more neutral or dissatisfied than disloyal, especially in economy. Business class has higher satisfaction overall.
 * Business class passengers travel nearly twice the average flight distance compared to economy. Distribution between eco/eco+ is similar.
+* Majority of passengers are middle-aged adults or young adults.
 * Business class has slightly lower average departure and arrival delays compared to economy plus.
 * Passengers rate overall service around 3-3.8 out of 5 on average based on aggregated service scores.
 * Loyal customers fly farther distances on average across age groups compared to disloyal. More loyal customers in young/middle age groups.
