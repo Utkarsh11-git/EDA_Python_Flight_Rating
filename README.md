@@ -19,22 +19,22 @@ The project aims to analyze customer satisfaction in the airline industry by lev
 * **Data Exploration**: Explore the dataset to understand its structure, missing values, and basic statistics.
 * **Data Cleaning**: Preprocess the data by handling missing values, outliers, and formatting issues.
 * **Descriptive Analysis**: Conduct exploratory data analysis to uncover patterns and relationships in the data.
-* **Visualizations**: Create visualizations (e.g., bar charts, histogram) to present findings effectively.
+* **Visualizations**: Create visualizations (e.g., bar charts, histograms) to present findings effectively.
+
+### Insights:
+* The data set contains 103,904 rows and 24 columns representing passenger survey responses. Key variables include demographics, flight details, service ratings, and satisfaction.
+* Loyal customers are slightly more neutral or dissatisfied than disloyal customers, especially in the economy. Business class has higher satisfaction overall.
+* Business-class passengers travel nearly twice the average flight distance compared to economy-class passengers. The distribution between eco and eco+ is similar.
+* The majority of passengers are middle-aged adults or young adults.
+* Business class has slightly lower average departure and arrival delays compared to economy plus.
+* Passengers rate overall service around 3-3.8 out of 5 on average based on aggregated service scores.
+![image](https://github.com/Utkarsh11-git/EDA_Python_Flight_Rating/assets/92782014/b9913198-8068-4dd4-987a-743b4c2ae2a9)
+* Loyal customers fly farther distances on average across age groups compared to disloyal customers. More loyal customers in young or middle-aged age groups.
 
 ### Tools and Libraries
 * **Python** programming language.
 * Libraries such as **Pandas**, **NumPy**, **Matplotlib**, **Seaborn** for data manipulation and visualization.
 * **Jupyter Notebook** in Visual Studio for documentation and analysis.
-
-### Insights:
-* The data set contains 103,904 rows and 24 columns representing passenger survey responses. Key variables include demographics, flight details, service ratings, and satisfaction.
-* Loyal customers skew slightly more neutral or dissatisfied than disloyal, especially in economy. Business class has higher satisfaction overall.
-* Business class passengers travel nearly twice the average flight distance compared to economy. Distribution between eco/eco+ is similar.
-* Majority of passengers are middle-aged adults or young adults.
-* Business class has slightly lower average departure and arrival delays compared to economy plus.
-* Passengers rate overall service around 3-3.8 out of 5 on average based on aggregated service scores.
-* Loyal customers fly farther distances on average across age groups compared to disloyal. More loyal customers in young/middle age groups.
-
+  
 ### Conclusion
-
 This data analytics project will provide valuable insights into customer satisfaction in the airline industry, helping airlines make informed decisions to enhance the passenger experience and improve overall satisfaction. The findings can be used to optimize services, marketing strategies, and customer retention efforts.
