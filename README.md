@@ -2,19 +2,6 @@
 
 The project aims to analyze customer satisfaction in the airline industry by leveraging a dataset containing various attributes related to passengers' experiences. This analysis will provide insights into factors that influence passenger satisfaction, identify areas for improvement, and help airlines make data-driven decisions to enhance customer service.
 
-### Dataset Description
-* **ID** : Unique identifier for each passenger.
-* **Gender** : Passenger's gender.
-* **Customer Type** : Indicates if the passenger is a loyal or disloyal customer.
-* **Age** : Passenger's age.
-* **Type of Travel** : Specifies whether the travel is for business or personal reasons.
-* **Class** : Travel class (e.g., Business, Economy).
-* **Flight Distance** : The distance of the flight in miles.
-* **Various Service Ratings** : Ratings for in-flight services like inflight wifi, departure/arrival time convenience, online booking, etc.
-* **Departure Delay in Minutes** : Delay in departure time (in minutes).
-* **Arrival Delay in Minutes** : Delay in arrival time (in minutes).
-* **Satisfaction** : Indicates passenger satisfaction with the overall experience (e.g., "satisfied" or "neutral").
-
 ### Objective
 * **Data Exploration**: Explore the dataset to understand its structure, missing values, and basic statistics.
 * **Data Cleaning**: Preprocess the data by handling missing values, outliers, and formatting issues.
